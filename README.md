@@ -1,5 +1,5 @@
-# react-password-generator
-ReactJS powered password generator
+# password-generator
+Password generator app
 
 A clone of [passwordsgenerator.net](passwordsgenerator.net) with an aim to improve it.
 
